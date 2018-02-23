@@ -3,7 +3,8 @@
 database name : book_store
 database table: book_info
 run service first then portal
-
+database username: root;
+         password: ;
 
 http://localhost:8080/book-store-portal/ws/BookStore/FilteredBook
 {
