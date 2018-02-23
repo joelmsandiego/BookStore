@@ -1,0 +1,12 @@
+book/store/daoutils/DateFormatterUtil.class
+book/store/dao/DatabaseDaoFactory.class
+book/store/daoutils/DaoUtils.class
+book/store/dao/CommonDao.class
+book/store/dao/BookStoreDao.class
+book/store/services/ApplicationConfig.class
+book/store/dao/impl/DatabaseDaoFactoryImpl.class
+book/store/dao/impl/CommonDaoImpl.class
+book/store/dao/exception/DaoException.class
+book/store/services/ws/BookStoreResources.class
+book/store/dao/impl/BookStoreDaoImpl.class
+book/store/entity/BookStoreEntity.class

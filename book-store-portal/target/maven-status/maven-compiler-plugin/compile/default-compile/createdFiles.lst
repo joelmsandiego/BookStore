@@ -1,0 +1,10 @@
+book/store/portal/client/BookStoreClient.class
+book/store/portal/tx/BookStoreConfigUtil.class
+book/store/portal/route/FilteredBookRoute.class
+book/store/portal/route/BookStoreDeleteRoute.class
+book/store/portal/route/renameTagRoute.class
+book/store/portal/route/AddBookRoute.class
+book/store/portal/tx/GsonTransformer.class
+book/store/portal/route/ShowAllBooksRoute.class
+book/store/portal/webservice/client/BaseClient.class
+book/store/portal/BookStoreApplilcation.class

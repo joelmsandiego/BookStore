@@ -1,0 +1,10 @@
+/home/joel/Documents/book-store/book-store-portal/src/main/java/book/store/portal/route/ShowAllBooksRoute.java
+/home/joel/Documents/book-store/book-store-portal/src/main/java/book/store/portal/tx/GsonTransformer.java
+/home/joel/Documents/book-store/book-store-portal/src/main/java/book/store/portal/webservice/client/BaseClient.java
+/home/joel/Documents/book-store/book-store-portal/src/main/java/book/store/portal/route/AddBookRoute.java
+/home/joel/Documents/book-store/book-store-portal/src/main/java/book/store/portal/client/BookStoreClient.java
+/home/joel/Documents/book-store/book-store-portal/src/main/java/book/store/portal/tx/BookStoreConfigUtil.java
+/home/joel/Documents/book-store/book-store-portal/src/main/java/book/store/portal/route/renameTagRoute.java
+/home/joel/Documents/book-store/book-store-portal/src/main/java/book/store/portal/route/BookStoreDeleteRoute.java
+/home/joel/Documents/book-store/book-store-portal/src/main/java/book/store/portal/route/FilteredBookRoute.java
+/home/joel/Documents/book-store/book-store-portal/src/main/java/book/store/portal/BookStoreApplilcation.java
